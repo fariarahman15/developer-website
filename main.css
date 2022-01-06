@@ -1,0 +1,29 @@
+body{
+    font-family: 'Yeseva One', cursive;
+    margin: 0;
+}
+
+.flexible-container{
+    display: flex;
+}
+
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+
+.headline{
+    padding-left: 5%;
+    padding-top: 25px;
+    font-size: x-large;
+}
+
+.orange-color{
+    color: #ffad5a;
+}
+.image1{
+    position: right;
+    height: 400px;
+    width: 300px;
+    padding-left: 20%;
+}
