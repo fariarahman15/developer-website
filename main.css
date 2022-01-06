@@ -50,3 +50,102 @@ body{
     color: #fffefe;
     font-weight: 700;
 }
+
+.second-part{
+    margin-top: 25px;
+}
+
+.second-part h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.mission-area{
+    margin-left: 150px;
+    margin-right: 100px;
+}
+.mission-items{
+    padding: 5%;
+    padding-bottom: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 25px;
+    width: 200px;
+    max-height: 300px ;
+   
+
+}
+
+.mission-icon{
+    height: 30%;
+}
+#mission{
+    background-color: #edf5f6;
+}
+#vission{
+    background-color: #ffeeef;
+}
+#goal{
+    background-color: #fff4d6;
+}
+
+.third-part{
+    margin-top: 80px;
+    margin-left: 30px;
+}
+
+.one-third-width{
+    width: 30%;
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+
+.third-width{
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+
+.one-third-width-img{
+    height: 350px;
+    width: 350px;
+    padding-top: 20px;
+    
+    
+}
+
+.third-width-text{
+    padding-left: 0;
+    padding-top: 10%;
+}
+.third-width-text h1{
+    font-size: 36px;
+}
+
+#develop-image{
+    padding-right: 0;
+    padding-top: 30px;
+    background-image: url(mission-2022-main/images/shapes/shape-1.png);
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+#develop-text{
+    padding-left: 0;
+}
+
+#know-text{
+    padding-right: 0;
+}
+
+#know-image{
+    margin-right: 25px;
+    padding-bottom: 30px;
+    background-image: url(mission-2022-main/images/shapes/shape-1.png);
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
