@@ -151,6 +151,36 @@ body{
     background-position: right bottom;
 }
 
+.half-width-img{
+    height: 80%;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 12%;
+    padding-left: 25%;
+    
+}
+
+.half-width-text{
+    padding-left: 0;
+    padding-right: 20%;
+    padding-top: 10%;
+}
+
+.app-text{
+    padding: 15%;
+    padding-bottom: 15px;
+    margin-left: 15px;
+    margin-right: 20px;
+    border-radius: 25px;
+    width: 200px;
+    max-height: 300px ;
+    background-color: #ffeeef;
+}
+#app{
+    padding-left: 0;;
+}
+
 footer{
     padding-top: 5px;
     height: 200px;
