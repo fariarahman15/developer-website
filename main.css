@@ -1,6 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    margin-bottom: 0;
 }
 
 .flexible-container{
@@ -148,4 +149,27 @@ body{
     background-size: 40%;
     background-repeat: no-repeat;
     background-position: right bottom;
+}
+
+footer{
+    padding-top: 5px;
+    height: 200px;
+    background-color: #0a0e17;
+    text-align: center;
+}
+
+footer h1{
+    font-family: 'Lobster', cursive;
+}
+
+footer p{
+    color: #dadbe1;
+}
+
+#white-color{
+    color: #ffffff ;
+}
+#red-color{
+    color: #ff595a;
+    
 }
